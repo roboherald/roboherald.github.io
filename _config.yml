@@ -27,7 +27,7 @@ author:
   avatar           : "/images/avatar.png"
   bio              : "M.Sc. student in Computer Science, University of Science and Technology Beijing."
   lab              : "3D Image Lab, USTB"
-  lab_logo         : "images/lab-mark.png"
+  lab_logo         : "/images/lab-mark.png"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
