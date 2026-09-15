@@ -55,8 +55,15 @@
         display: flex;
         width: 100%;
         order: 2;
-        img {
+        > div {
+            width: 100%;
             max-width: 400px;
+        }
+        img {
+            display: block;
+            width: 100%;
+            max-width: 100%;
+            height: auto;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
         }
@@ -95,6 +102,10 @@ h1:before, .anchor:before {
     width: 0; 
     height: $scroll_offset; 
     margin-top: -$scroll_offset;
+}
+
+.page__content h2[id] {
+    scroll-margin-top: 4em;
 }
 
 .badge {

@@ -6,5 +6,6 @@ push.sh
 .bundle/
 .jekyll-cache/
 .jekyll-metadata
+.sass-cache/
 run_server_local.sh
 .vscode/

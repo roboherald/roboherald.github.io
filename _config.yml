@@ -6,10 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "HowsenFisher's Homepage"
-description              : "If the Flying General were still there in command."
-repository               : "yuyuyu223/howsenfisher.github.io"
-google_scholar_stats_use_cdn : true
+title                    : "Yunhao Hou | 侯云浩"
+description              : "Embodied AI, robot learning, and aerial-ground collaboration."
+url                      : "https://roboherald.github.io"
+baseurl                  : ""
+repository               : "roboherald/roboherald.github.io"
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -21,18 +23,18 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "于淏辰 Haochen Yu"
-  avatar           : "images/yu1.png"
-  bio              : "Ph.D. candidate in Computer Science, USTB. 3D controllable generation & reconstruction, feed-forward 3DGS, autonomous driving simulation."
-  lab              : "3D Image Lab, USTB"
-  lab_logo         : "images/lab-mark.png"
-  location         : "Beijing, China"
+  name             : "侯云浩 Yunhao Hou"
+  avatar           : "/images/avatar.png"
+  bio              : "M.Sc. student in Computer Science, University of Science and Technology Beijing."
+  lab              :
+  lab_logo         :
+  location         : "Beijing / Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=P8hQuaYAAAAJ"
-  email            : "yuhaochen_223@126.com"
-  wechat           : "yudage223"
-  qq               : "956535234"
+  googlescholar    :
+  email            : "16601210597@163.com"
+  wechat           :
+  qq               :
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -41,7 +43,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://yuyuyu223.github.io/howsenfisher.github.io/"
+  github           : "roboherald"
   google_plus      :
   keybase          :
   instagram        :
@@ -49,7 +51,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0009-0007-2073-2961"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -70,6 +72,10 @@ include:
   - files
 exclude:
   - docs
+  - results
+  - run_server.sh
+  - run_server_local.sh
+  - Gemfile.lock
   - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"
