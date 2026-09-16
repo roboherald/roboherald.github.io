@@ -39,14 +39,14 @@ I am interested in research and engineering opportunities in embodied AI, robot 
 {: #publications }
 
 <div class="paper-box">
-  <div class="paper-box-image"><div><div class="badge">NeurIPS 2025</div><img src="{{ '/images/agc-drive.png' | relative_url }}" alt="AGC-Drive data collection platform with two vehicles and a UAV" loading="lazy"></div></div>
+  <div class="paper-box-image"><div><img src="{{ '/images/agc-drive.png' | relative_url }}" alt="AGC-Drive data collection platform with two vehicles and a UAV" loading="lazy"></div></div>
   <div class="paper-box-text" markdown="1">
+
+<div class="publication-meta"><span class="venue-badge">NeurIPS 2025</span><span class="venue-track">Datasets and Benchmarks Track</span></div>
 
 **AGC-Drive: A Large-Scale Dataset for Real-World Aerial-Ground Collaboration in Driving Scenarios**
 
 **Yunhao Hou**, Bochao Zou, Min Zhang, Ran Chen, Shangdong Yang, Yanmei Zhang, Junbao Zhuo, Siheng Chen, Jiansheng Chen, Huimin Ma
-
-*NeurIPS 2025 — Datasets and Benchmarks Track*
 
 A real-world collaborative perception dataset with 350 scenes, 14 driving scenarios, 13 object categories, and over 720K annotated 3D bounding boxes.
 
@@ -55,11 +55,11 @@ A real-world collaborative perception dataset with 350 scenes, 14 driving scenar
   </div>
 </div>
 
-### Manuscript under review
+### Manuscripts under review
 
 **AGC-Drive-VLA: A Vision-Language-Action Dataset and Benchmark for Bridging the Perception-Decision Gap in Aerial-Ground Collaboration**
 
-First author · Submitted to IEEE TPAMI; under review.
+First author · Submitted to IEEE TPAMI · **Under review**.
 
 Extending aerial-ground collaboration from perception to language-conditioned decision-making through collaborative scene descriptions, question answering, and a VLA evaluation benchmark.
 
@@ -88,18 +88,6 @@ Extending aerial-ground collaboration from perception to language-conditioned de
   <div class="icon-chip current" title="Ongoing"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 10 10 10-4.48 10-10S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zM12.5 7H11v6l5.25 3.15.75-1.23-4.5-2.67z"/></svg></div>
 </div>
 
-<div class="info-card">
-  <div class="card-icon"><i class="fas fa-stream" aria-hidden="true"></i></div>
-  <div class="card-body">
-    <div class="card-title">Embodied AI Chronicle · 具身智能大事纪</div>
-    <div class="card-sub">Open-source research information tool</div>
-    <div class="card-note">A searchable timeline of arXiv papers, robotics company blogs, industry news, and community discussions, with topic filters, trends, curated milestones, and automated updates.</div>
-  </div>
-</div>
-<div class="card-follow">
-  <div class="card-links"><a href="https://roboherald.github.io/embodied-ai-chronicle/"><strong>Website</strong></a><a href="https://github.com/roboherald/embodied-ai-chronicle"><strong>Code</strong></a></div>
-</div>
-
 ## Internships
 {: #internships }
 
@@ -122,6 +110,21 @@ Extending aerial-ground collaboration from perception to language-conditioned de
 <div class="award-grid">
   <div class="award-card level-honor"><div class="award-meta"><span class="award-level">Scholarship</span></div><div class="award-name">National Scholarship · 国家奖学金</div></div>
   <div class="award-card level-national"><div class="award-meta"><span class="award-level">National</span></div><div class="award-name">iCAN Robotics Competition · iCAN 机器人竞赛</div><div class="award-org">National awards, twice</div></div>
+</div>
+
+## Coding & Open Source
+{: #coding }
+
+<div class="info-card">
+  <div class="card-icon"><i class="fas fa-code" aria-hidden="true"></i></div>
+  <div class="card-body">
+    <div class="card-title">Embodied AI Chronicle · 具身智能大事纪</div>
+    <div class="card-sub">A personal tool for keeping up with embodied AI</div>
+    <div class="card-note">A searchable timeline of arXiv papers, robotics company blogs, industry news, and community discussions, with topic filters, trends, curated milestones, and automated updates.</div>
+  </div>
+</div>
+<div class="card-follow">
+  <div class="card-links"><a href="https://roboherald.github.io/embodied-ai-chronicle/"><strong>Website</strong></a><a href="https://github.com/roboherald/embodied-ai-chronicle"><strong>Code</strong></a></div>
 </div>
 
 ## Skills
