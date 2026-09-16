@@ -57,11 +57,43 @@ A real-world collaborative perception dataset with 350 scenes, 14 driving scenar
 
 ### Manuscripts under review
 
+<div class="paper-box paper-box--manuscript">
+  <div class="paper-box-text" markdown="1">
+
+<div class="publication-meta"><span class="venue-badge venue-badge--review">IEEE TPAMI · Under review</span></div>
+
 **AGC-Drive-VLA: A Vision-Language-Action Dataset and Benchmark for Bridging the Perception-Decision Gap in Aerial-Ground Collaboration**
 
-First author · Submitted to IEEE TPAMI · **Under review**.
+First author
 
 Extending aerial-ground collaboration from perception to language-conditioned decision-making through collaborative scene descriptions, question answering, and a VLA evaluation benchmark.
+
+  </div>
+</div>
+
+<div class="paper-box paper-box--manuscript">
+  <div class="paper-box-text" markdown="1">
+
+<div class="publication-meta"><span class="venue-badge venue-badge--review">AAAI · Under review</span></div>
+
+**AestheticVLM**
+
+Aligning vision-language models with human aesthetic preferences through multimodal reward modeling, supervised fine-tuning, and GRPO, and guiding diffusion-based generation with aesthetic scores.
+
+  </div>
+</div>
+
+<div class="paper-box paper-box--manuscript">
+  <div class="paper-box-text" markdown="1">
+
+<div class="publication-meta"><span class="venue-badge venue-badge--review">AAAI · Under review</span></div>
+
+**Geo-VLA**
+
+Learning road geometry and topology within vision-language-action representations through geometric question answering and training-time map supervision, without requiring HD maps at inference time.
+
+  </div>
+</div>
 
 ## Research Projects
 {: #projects }
@@ -121,10 +153,8 @@ Extending aerial-ground collaboration from perception to language-conditioned de
     <div class="card-title">Embodied AI Chronicle · 具身智能大事纪</div>
     <div class="card-sub">A personal tool for keeping up with embodied AI</div>
     <div class="card-note">A searchable timeline of arXiv papers, robotics company blogs, industry news, and community discussions, with topic filters, trends, curated milestones, and automated updates.</div>
+    <div class="card-links"><a href="https://roboherald.github.io/embodied-ai-chronicle/"><strong>Website</strong></a><a href="https://github.com/roboherald/embodied-ai-chronicle"><strong>Code</strong></a></div>
   </div>
-</div>
-<div class="card-follow">
-  <div class="card-links"><a href="https://roboherald.github.io/embodied-ai-chronicle/"><strong>Website</strong></a><a href="https://github.com/roboherald/embodied-ai-chronicle"><strong>Code</strong></a></div>
 </div>
 
 ## Skills
