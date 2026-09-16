@@ -87,11 +87,11 @@ A searchable timeline that aggregates arXiv papers, robotics company blogs, indu
 ## Internships
 {: #internships }
 
-<div class="info-card"><div class="card-body"><div class="card-title">AgiBot · 智元机器人</div><div class="card-sub">Embodied AI Algorithm Intern</div><div class="card-note">VLA reward modeling and weak-to-strong distillation; dexterous manipulation and simulation / real-world data collection.</div></div><div class="card-date">Jun. 2026 – Present</div></div>
+<div class="info-card"><div class="company-logo"><img src="{{ '/images/agibot.png' | relative_url }}" alt="AgiBot logo" loading="lazy"></div><div class="card-body"><div class="card-title">AgiBot · 智元机器人</div><div class="card-sub">Embodied AI Algorithm Intern</div><div class="card-note">VLA reward modeling and weak-to-strong distillation; dexterous manipulation and simulation / real-world data collection.</div></div><div class="card-date">Jun. 2026 – Present</div></div>
 
-<div class="info-card"><div class="card-body"><div class="card-title">JD Explore Academy · 京东探索研究院</div><div class="card-sub">Embodied AI Algorithm Development Intern</div><div class="card-note">Hierarchical VLM–VLA navigation, stateful embodied agents, simulation evaluation, and deployment on a quadruped robot.</div></div><div class="card-date">Mar. 2026 – Jun. 2026</div></div>
+<div class="info-card"><div class="company-logo"><img src="{{ '/images/jd-academy.png' | relative_url }}" alt="JD Explore Academy logo" loading="lazy"></div><div class="card-body"><div class="card-title">JD Explore Academy · 京东探索研究院</div><div class="card-sub">Embodied AI Algorithm Development Intern</div><div class="card-note">Hierarchical VLM–VLA navigation, stateful embodied agents, simulation evaluation, and deployment on a quadruped robot.</div></div><div class="card-date">Mar. 2026 – Jun. 2026</div></div>
 
-<div class="info-card"><div class="card-body"><div class="card-title">灵心巧手</div><div class="card-sub">Algorithm Engineering Intern · Foundation Model Team</div><div class="card-note">Hand-object interaction and retargeting, vision-tactile-language-action policies, and robustness to changing camera viewpoints.</div></div><div class="card-date">Nov. 2025 – Mar. 2026</div></div>
+<div class="info-card"><div class="company-logo"><img src="{{ '/images/inkerbot.png' | relative_url }}" alt="灵心巧手 logo" loading="lazy"></div><div class="card-body"><div class="card-title">灵心巧手</div><div class="card-sub">Algorithm Engineering Intern · Foundation Model Team</div><div class="card-note">Hand-object interaction and retargeting, vision-tactile-language-action policies, and robustness to changing camera viewpoints.</div></div><div class="card-date">Nov. 2025 – Mar. 2026</div></div>
 
 ## Education
 {: #education }
