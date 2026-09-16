@@ -63,27 +63,6 @@ First author · Submitted to IEEE TPAMI; under review.
 
 Extending aerial-ground collaboration from perception to language-conditioned decision-making through collaborative scene descriptions, question answering, and a VLA evaluation benchmark.
 
-## Research & Projects
-{: #projects }
-
-### Aerial-ground collaboration: from perception to action
-
-**Project lead · Nov. 2023 – Present**
-
-Built a multi-agent data collection system with two vehicles and a UAV, including sensor integration and spatiotemporal synchronization. Developed AGC-Drive and extended it toward collaborative VLA decision-making. Related work explores learning road geometry and topology within VLA representations to reduce reliance on HD maps at inference time.
-
-### AestheticVLM
-
-**Project lead · Jan. 2026 – Present**
-
-Exploring human aesthetic preference alignment for vision-language models. The project combines pairwise preference data, multimodal reward modeling, supervised fine-tuning, and GRPO, with aesthetic scores used to guide diffusion-based generation. Manuscript submitted to AAAI.
-
-### 具身智能大事纪 · Embodied AI Chronicle
-
-A searchable timeline that aggregates arXiv papers, robotics company blogs, industry news, and community discussions. It includes research topic filters, trend views, and curated technical milestones, with automated updates through GitHub Actions.
-
-[**Visit Website**](https://roboherald.github.io/embodied-ai-chronicle/) · [**Source Code**](https://github.com/roboherald/embodied-ai-chronicle)
-
 ## Internships
 {: #internships }
 
