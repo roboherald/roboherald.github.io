@@ -76,7 +76,9 @@ Extending aerial-ground collaboration from perception to language-conditioned de
 
 <div class="publication-meta"><span class="venue-badge venue-badge--review">AAAI · Under review</span></div>
 
-**AestheticVLM**
+**AestheticVLM: From Aesthetic Preferences to Continuous Control of Image Generation**
+
+Co-first author
 
 Aligning vision-language models with human aesthetic preferences through multimodal reward modeling, supervised fine-tuning, and GRPO, and guiding diffusion-based generation with aesthetic scores.
 
@@ -88,9 +90,25 @@ Aligning vision-language models with human aesthetic preferences through multimo
 
 <div class="publication-meta"><span class="venue-badge venue-badge--review">AAAI · Under review</span></div>
 
-**Geo-VLA**
+**CW2S-InfAlign: Contrastive Guidance for Weak-to-Strong Inference-Time Alignment of Large Language Models**
 
-Learning road geometry and topology within vision-language-action representations through geometric question answering and training-time map supervision, without requiring HD maps at inference time.
+Second author
+
+An inference-time alignment framework using contrastive guidance from weak experts and synergistic token-level and chunk-level interventions.
+
+  </div>
+</div>
+
+<div class="paper-box paper-box--manuscript">
+  <div class="paper-box-text" markdown="1">
+
+<div class="publication-meta"><span class="venue-badge venue-badge--review">AAAI · Under review</span></div>
+
+**Geo-VLA: Geometry-Aware Vision-Language-Action Planning via Internalization of Map Semantics**
+
+Third author
+
+Learning geometry-aware visual representations from map semantics during training, with no HD maps or additional lane information required at inference time.
 
   </div>
 </div>
