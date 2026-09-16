@@ -8,8 +8,10 @@
 - 三篇 AAAI 原始 PDF 保留在仓库外，页面展示标题、作者位次和简介，没有加入稿件下载链接。
 - 未使用“唯一”“SOTA”等缺少独立核验的宣传性表述，实习描述仅保留研究方向概述。
 - 简历中 Agentic RL 条目的下划线占位内容没有加入网站。
-- “灵心巧手 (DexForce)”的中英文公司名称需要核对，因此页面暂用中文公司名。
-- 奖项没有明确年份及等级，页面没有补写这些信息。
+- 公司英文名根据用户 2026-09-16 的更正统一为 JD Future Academy 和 LinkerBot。
+- 根据用户说明，数据集项目于 2026 年初提前完成所有任务并结题，AestheticVLM 项目于 2026 年 7 月完成。项目完成状态与论文在投状态分别展示。
+- 新增用户提供的北京科技大学学术之星、2026 年“青创北京”“挑战杯”首都大学生创业计划竞赛一等奖、北京科技大学优秀毕业生（本科）；没有明确年份的奖项不补写年份。
+- 新研究标签采用 Embodied Reasoning & Planning。术语参考 Gemini Robotics 的 Embodied Reasoning（https://arxiv.org/abs/2503.20020）；agent harness 指上下文、工具和执行流程等支撑框架，参考 https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents 。
 - 头像来自用户公开 GitHub 账号，可替换为希望展示的照片。
 - 邮箱使用简历中的联系邮箱；未添加电话、完整简历下载或尚未提供的 Google Scholar / ORCID 账号。
 - 具身智能大事纪的描述以其公开 README 和线上页面为依据。

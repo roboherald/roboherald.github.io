@@ -12,7 +12,7 @@
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
     {% if author.lab %}
-      <p class="author__lab">{% if author.lab_logo %}<img src="{{ author.lab_logo }}" alt="{{ author.lab }} logo">{% endif %}<span>{{ author.lab }}</span></p>
+      <p class="author__lab">{% if author.lab_logo %}<img src="{{ author.lab_logo | relative_url }}" alt="{{ author.lab }} logo">{% endif %}{% if author.lab_url %}<a href="{{ author.lab_url }}" target="_blank" rel="noopener">{{ author.lab }}</a>{% else %}<span>{{ author.lab }}</span>{% endif %}</p>
     {% endif %}
   </div>
 
