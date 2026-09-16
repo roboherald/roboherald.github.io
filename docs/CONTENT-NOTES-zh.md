@@ -12,7 +12,7 @@
 - 根据用户说明，数据集项目于 2026 年初提前完成所有任务并结题，AestheticVLM 项目于 2026 年 7 月完成。项目完成状态与论文在投状态分别展示。
 - 新增用户提供的北京科技大学学术之星、2026 年“青创北京”“挑战杯”首都大学生创业计划竞赛一等奖、北京科技大学优秀毕业生（本科）；没有明确年份的奖项不补写年份。
 - 新研究标签采用 Embodied Reasoning & Planning。术语参考 Gemini Robotics 的 Embodied Reasoning（https://arxiv.org/abs/2503.20020）；agent harness 指上下文、工具和执行流程等支撑框架，参考 https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents 。
-- 头像来自用户公开 GitHub 账号，可替换为希望展示的照片。
+- 网站头像使用用户 2026-09-16 指定的 `images/houyh.jpg` 生活照，按原始 3:4 比例展示；简历继续使用原来的证件照。
 - 邮箱使用简历中的联系邮箱；未添加电话、完整简历下载或尚未提供的 Google Scholar / ORCID 账号。
 - 具身智能大事纪的描述以其公开 README 和线上页面为依据。
 - 保留原模板许可证和来源说明，移除了师兄的个人图片、论文 PDF、旧引用统计和赞助配置。

@@ -95,7 +95,7 @@
     max-width: 175px;
     min-width: 75px;
     height: auto;
-    border-radius: 50%;
+    border-radius: 12px;
 
     @include breakpoint($large) {
       padding: 5px;
