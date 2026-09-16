@@ -141,7 +141,7 @@ Learning geometry-aware visual representations from map semantics during trainin
 ## Internships
 {: #internships }
 
-<div class="info-card"><div class="company-logo"><img src="{{ '/images/agibot.png' | relative_url }}" alt="AgiBot logo" loading="lazy"></div><div class="card-body"><div class="card-title">AgiBot · 智元机器人</div><div class="card-sub">Embodied AI Algorithm Intern</div><div class="card-note">Embodied agents, agent harnesses, and agentic RL; VLA reward modeling and weak-to-strong distillation; dexterous manipulation and real-world data collection.</div></div><div class="card-date">Jun. 2026 – Present</div></div>
+<div class="info-card"><div class="company-logo"><img src="{{ '/images/智元英文logo横版-彩色黑字.png' | relative_url }}" alt="AgiBot logo" loading="lazy"></div><div class="card-body"><div class="card-title">AgiBot · 智元机器人</div><div class="card-sub">Embodied AI Algorithm Intern</div><div class="card-note">Embodied agents, agent harnesses, and agentic RL; VLA reward modeling and weak-to-strong distillation; dexterous manipulation and real-world data collection.</div></div><div class="card-date">Jun. 2026 – Present</div></div>
 
 <div class="info-card"><div class="company-logo"><img src="{{ '/images/jd-academy.png' | relative_url }}" alt="JD Future Academy logo" loading="lazy"></div><div class="card-body"><div class="card-title">JD Future Academy · 京东探索研究院</div><div class="card-sub">Embodied AI Algorithm Development Intern</div><div class="card-note">Hierarchical VLM–VLA navigation, stateful embodied agents, simulation evaluation, and deployment on a quadruped robot.</div></div><div class="card-date">Mar. 2026 – Jun. 2026</div></div>
 
