@@ -63,6 +63,43 @@ First author · Submitted to IEEE TPAMI; under review.
 
 Extending aerial-ground collaboration from perception to language-conditioned decision-making through collaborative scene descriptions, question answering, and a VLA evaluation benchmark.
 
+## Research Projects
+{: #projects }
+
+<div class="info-card">
+  <div class="card-icon"><img src="{{ '/images/lab-mark.png' | relative_url }}" alt="3D Image Lab" loading="lazy"></div>
+  <div class="card-body">
+    <div class="card-title">Aerial-Ground Collaboration and VLA Decision Benchmark<span class="card-role">Project Lead</span></div>
+    <div class="card-sub">USTB · AGC-Drive: NeurIPS 2025 · AGC-Drive-VLA: under review at TPAMI</div>
+    <div class="card-note">Built a real-world system with two vehicles and a UAV, synchronized LiDAR, camera, and IMU data, and developed a large-scale collaborative perception dataset. Extended the work toward language-conditioned scene understanding and decision-making. Related work, Geo-VLA, learns road geometry and topology within VLA representations to reduce reliance on HD maps at inference time.</div>
+  </div>
+  <div class="card-date">Nov. 2023 – Present</div>
+  <div class="icon-chip current" title="Ongoing"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 10 10 10-4.48 10-10S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zM12.5 7H11v6l5.25 3.15.75-1.23-4.5-2.67z"/></svg></div>
+</div>
+
+<div class="info-card">
+  <div class="card-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19.8 18.4L14 10.67V6.5l1.35-1.69c.26-.33.03-.81-.39-.81H9.04c-.42 0-.65.48-.39.81L10 6.5v4.17L4.2 18.4c-.49.66-.02 1.6.8 1.6h14c.82 0 1.29-.94.8-1.6z"/></svg></div>
+  <div class="card-body">
+    <div class="card-title">AestheticVLM: Vision-Language Model Preference Alignment<span class="card-role">Project Lead</span></div>
+    <div class="card-sub">Multimodal reward modeling and generation · Manuscript submitted to AAAI</div>
+    <div class="card-note">Built a multimodal preference dataset and reward model, then combined supervised fine-tuning and GRPO to align vision-language generation with human aesthetic preferences. Used compact aesthetic scores to guide diffusion-based image generation.</div>
+  </div>
+  <div class="card-date">Jan. 2026 – Present</div>
+  <div class="icon-chip current" title="Ongoing"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 10 10 10-4.48 10-10S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zM12.5 7H11v6l5.25 3.15.75-1.23-4.5-2.67z"/></svg></div>
+</div>
+
+<div class="info-card">
+  <div class="card-icon"><i class="fas fa-stream" aria-hidden="true"></i></div>
+  <div class="card-body">
+    <div class="card-title">Embodied AI Chronicle · 具身智能大事纪</div>
+    <div class="card-sub">Open-source research information tool</div>
+    <div class="card-note">A searchable timeline of arXiv papers, robotics company blogs, industry news, and community discussions, with topic filters, trends, curated milestones, and automated updates.</div>
+  </div>
+</div>
+<div class="card-follow">
+  <div class="card-links"><a href="https://roboherald.github.io/embodied-ai-chronicle/"><strong>Website</strong></a><a href="https://github.com/roboherald/embodied-ai-chronicle"><strong>Code</strong></a></div>
+</div>
+
 ## Internships
 {: #internships }
 
@@ -70,7 +107,7 @@ Extending aerial-ground collaboration from perception to language-conditioned de
 
 <div class="info-card"><div class="company-logo"><img src="{{ '/images/jd-academy.png' | relative_url }}" alt="JD Explore Academy logo" loading="lazy"></div><div class="card-body"><div class="card-title">JD Explore Academy · 京东探索研究院</div><div class="card-sub">Embodied AI Algorithm Development Intern</div><div class="card-note">Hierarchical VLM–VLA navigation, stateful embodied agents, simulation evaluation, and deployment on a quadruped robot.</div></div><div class="card-date">Mar. 2026 – Jun. 2026</div></div>
 
-<div class="info-card"><div class="company-logo"><img src="{{ '/images/inkerbot.png' | relative_url }}" alt="灵心巧手 logo" loading="lazy"></div><div class="card-body"><div class="card-title">灵心巧手</div><div class="card-sub">Algorithm Engineering Intern · Foundation Model Team</div><div class="card-note">Hand-object interaction and retargeting, vision-tactile-language-action policies, and robustness to changing camera viewpoints.</div></div><div class="card-date">Nov. 2025 – Mar. 2026</div></div>
+<div class="info-card"><div class="company-logo"><img src="{{ '/images/inkerbot-cropped.png' | relative_url }}" alt="灵心巧手 logo" loading="lazy"></div><div class="card-body"><div class="card-title">灵心巧手</div><div class="card-sub">Algorithm Engineering Intern · Foundation Model Team</div><div class="card-note">Hand-object interaction and retargeting, vision-tactile-language-action policies, and robustness to changing camera viewpoints.</div></div><div class="card-date">Nov. 2025 – Mar. 2026</div></div>
 
 ## Education
 {: #education }

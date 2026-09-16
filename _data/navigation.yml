@@ -3,6 +3,8 @@ main:
     url: "#about-me"
   - title: "Publications"
     url: "#publications"
+  - title: "Research Projects"
+    url: "#projects"
   - title: "Internships"
     url: "#internships"
   - title: "Education"
